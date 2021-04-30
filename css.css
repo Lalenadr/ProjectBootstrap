@@ -34,3 +34,7 @@
     }
     #smal {background-image: url(images/bloemen.jpg);
     background-repeat: repeat;}
+
+    pre {
+      font-family: Arial !important;
+    }
